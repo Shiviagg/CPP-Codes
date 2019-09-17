@@ -18,5 +18,5 @@ int main()
         if(a[i]>sum)
             c++;
     }
-    cout << c << " ";
+    cout << c << endl;
   }
