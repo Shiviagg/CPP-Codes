@@ -22,7 +22,7 @@ int main()
             d=a[i]^b[j];
             break;
       }
-   cout << d << " ";
+   cout << d <<  " ";
   }
 
 
