@@ -11,7 +11,7 @@ int main()
  {
    cin >> a[i];
  }
- int key,flag=0;
+ int key, flag=0;
  cin >>  key;
  for(i=0;i<n;i++)
  {
