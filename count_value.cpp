@@ -8,7 +8,7 @@ int main()
   int d[n],a,b,c=0,i;
   for(i=0;i<n;i++)
   {
-    cin >> d[i];
+    cin >>  d[i];
   }
   cin >> a >> b;
   for(i=0;i<n;i++)
